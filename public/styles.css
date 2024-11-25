@@ -7,11 +7,15 @@ h1{
 
 h2{
     font-family: Arial, Helvetica, sans-serif;
-    color: #1ee481;
+    color: #ff4800;
+    background-color: rgba(225, 0, 255, 0.185)  ;
+
+
 }
 
 p{
     font-family: 'Courier New', Courier, monospace;
+    
 }
 
 footer{
